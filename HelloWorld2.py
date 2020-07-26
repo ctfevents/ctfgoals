@@ -8,6 +8,8 @@ TENANT_ID: [0-9a-z\-]{36}
 [default]
 aws_access_key_id = BKIAXXXREA7OYXXGNX
 aws_secret_access_key = v3EfO4+UC8cNssjTTZ219mS7xqccapo3E/WOOXXLF
+
+secret=aHR0cHM6Ly93aGF0aXNpbnRoaXNibG9iLmJsb2IuY29yZS53aW5kb3dzLm5ldC9vaGl0c3RoZWZsYWcv
   
 #!/bin/bash
 function mytest {
